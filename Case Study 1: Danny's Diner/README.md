@@ -14,5 +14,6 @@ He plans on using these insights to help him decide whether he should expand the
 Danny has provided you with a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions!
 
 # Entity Relationship Diagram
-![image](https://github.com/user-attachments/assets/ac3e21bf-b7bc-410f-b0a1-3093b99cd39d)
+![image](https://github.com/user-attachments/assets/e716d1ac-d80d-4ef0-a4f3-acd1a68eb9b8)
+
 
