@@ -1,2 +1,3 @@
 # 8-Week-SQL-Challenge
-Real-world case studies for practical SQL #8WeekSQLChallenge
+Real-world Data Science Case Studies for practical SQL #8WeekSQLChallenge
+https://8weeksqlchallenge.com/
